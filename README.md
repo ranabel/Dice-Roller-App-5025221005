@@ -1,6 +1,9 @@
 # Tutorial: Membuat Aplikasi Pengacak Dadu dengan Jetpack Compose
 
 
+**Nama:** Nabilah Atika Rahma  
+**NRP:** 5025221005  
+**Kelas:** PPB G - Week 4
 
 Pada tutorial ini, kita akan belajar cara membuat aplikasi pengacak dadu sederhana menggunakan Kotlin dan Jetpack Compose. Tutorial ini akan membawa Anda melalui proses lengkap untuk membuat aplikasi Android yang interaktif dan berfungsi penuh, dimulai dari pembuatan proyek hingga menjalankan aplikasi final.
 
